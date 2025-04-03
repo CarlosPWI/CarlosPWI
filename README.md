@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi everyone :wave:
 
-<!--
-**CarlosPWI/CarlosPWI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer from Brazil.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+<summary>
+  More stuff about me
+</summary>
+
+## Quick overview
+
+### What I do
+
+Hi! I'm an ERP application developer specializing in park management systems, with a focus on accounting and tax processes.
+
+## My skills 📜
+
+### Web technologies
+
+- JavaScript
+- Next.js
+- HTML, CSS
+- SCSS
+- Node.js
+- Microsoft SQL Server
+- Microsoft Azure
+
+### Application Development
+
+- Visual FoxPro
+
+### Productivity utilities
+
+- Microsoft Office
+
+### Languages 🌐
+
+| Language      | Proficiency                                                               |
+| ------------- | ------------------------------------------------------------------------- |
+| English       |                                                                           |
+| Portuguese-BR | Native language                                                           |
+
+## What I'm currently learning 📚
+
+- Phyton
+- Typescript's
+
+
+</details>
